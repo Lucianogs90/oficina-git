@@ -1,6 +1,8 @@
-git switch -c nome-da-nova-branch
+git switch -c nome-da-nova-branch //Cria um novo branch 
 
-git switch main
+git switch main //Muda o branch para main
 
-git switch 01-teste
+git switch 01-teste //Muda o branch para 01-teste
+
+
 
