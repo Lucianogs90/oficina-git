@@ -1,0 +1,6 @@
+git switch -c nome-da-nova-branch
+
+git switch main
+
+git switch 01-teste
+
